@@ -194,8 +194,8 @@ All API calls require JWT (Cognito) where applicable.
 
 | Repo                                                                                | Purpose                             |
 | ----------------------------------------------------------------------------------- | ----------------------------------- |
-| [Frontend](https://github.com/Techsphere-Solutions-TenderTool/Frontend.git)         | React frontend + Amplify deployment |
-| [Backend](https://github.com/Techsphere-Solutions-TenderTool/TenderToolBackend.git) | API endpoints via AWS Lambda        |
+| [TenderToolFrontend](https://github.com/Katie7867/tendertool-frontend.git)          | React frontend + Amplify deployment |
+| [TenderToolBackend](https://github.com/Katie7867/tendertool-backend.git)            | API endpoints via AWS Lambda        |
 
 Uses **GitHub Actions** for deployment pipelines and testing.
 
